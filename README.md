@@ -2,7 +2,7 @@
 Deep learning approach to classify the image to belong to a perticular condition class.
 
 ### Model Architecture
-![Model Architecture](https://drive.google.com/uc?export=view&id=1T5tcZlk0ZZv5j5iinWiCSLDz01rcxGma)
+![Model Architecture](https://github.com/kartikkadur/KeenHackathon/blob/master/model_architecture.png)
 
 ### Training
 To train the model do the following:
@@ -21,4 +21,4 @@ Again refer the nnotebook for using the prediction funvtion.
 ### Results
 We have achieved a training accuracy of 99.3 % and a validation accuracy of 95.7 % on the provided data.
 
-![Results](https://drive.google.com/uc?export=view&id=1XRTfJvngxC256Xevgg5vNCH2uMufOzVB)
+![Results](https://github.com/kartikkadur/KeenHackathon/blob/master/plot.png)
